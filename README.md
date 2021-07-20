@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riyachugh2327
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Data Structures and Algorithm
+
 
 
 <!---
